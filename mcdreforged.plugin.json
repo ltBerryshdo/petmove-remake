@@ -1,0 +1,15 @@
+{
+    "id":"petmove_remake",
+    "version":"0.0.2",
+    "name":"petmove remake",
+    "description":"remake petmove plugin for support MCDR2.0 and 1.16+,by ltBerryshdo",
+    "author":[
+        "63815af756f0357940c666d2ae1c801d",
+        "ltBerryshdo"
+    ],
+    "link":"https://github.com/63815af756f0357940c666d2ae1c801d/petmove",
+    "dependencies":{
+        "mcdreforged":">=2.0.0"
+    },
+    "archive_name":"petmove_remake-v0.0.2"
+}
